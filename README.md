@@ -1,9 +1,12 @@
 # FitSpace
 - Membros:
-- Nathally Czaikowski Silva
-- Victor Kaue Rosa dos Santos
-- Lais de Sousa Costa
-- Orientador: Prof Dr. Ronan Assumpção Silva;
+- **Nathally Czaikowski Silva**
+- Contato: Nathallyczaikowski@gmail.com
+- **Victor Kaue Rosa dos Santos**
+- Contato: Rvictorkaue@gmail.com
+- **Lais de Sousa Costa**
+- Contato: xlaiscs@gmail.com
+- **Orientador: Prof Dr. Ronan Assumpção Silva;**
   
 | MATRIZ DE RISCO  |
 | ------------- |
