@@ -1,4 +1,9 @@
 # FitSpace
+- Membros:
+- Nathally Czaikowski Silva
+- Victor Kaue Rosa dos Santos
+- Lais de Sousa Costa
+- Orientador: Prof Dr. Ronan Assumpção Silva
 | MATRIZ DE RISCO  |
 | ------------- |
 | Não terminar o projeto no tempo desejado |
